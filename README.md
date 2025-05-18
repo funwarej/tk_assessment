@@ -33,7 +33,7 @@ This document explains the approach taken to solve various customer and transact
 
 ---
 
-## 📊 Query 2: Transaction Frequency Categorization
+## 📊 Query 2: Transaction Frequency Categorization - [link](https://github.com/funwarej/tk_assessment/blob/main/Assessment_Q2.sql)
 
 **Objective:** Categorize customers into high, medium, and low transaction frequency groups.
 
@@ -49,7 +49,7 @@ This document explains the approach taken to solve various customer and transact
 
 ---
 
-## ⚠️ Query 3: Account Inactivity Alert
+## ⚠️ Query 3: Account Inactivity Alert - [link](https://github.com/funwarej/tk_assessment/blob/main/Assessment_Q3.sql)
 
 **Objective:** Flag savings or investment plans with no inflow activity in the last 365 days.
 
@@ -65,7 +65,7 @@ This document explains the approach taken to solve various customer and transact
 
 ---
 
-## 📈 Query 4: Customer Lifetime Value (CLV) Estimation
+## 📈 Query 4: Customer Lifetime Value (CLV) Estimation - [link](https://github.com/funwarej/tk_assessment/blob/main/Assessment_Q4.sql)
 
 **Objective:** Estimate CLV using total transactions and account tenure.
 
